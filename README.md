@@ -1,4 +1,4 @@
-Here's a revised version of the **README.md** that clearly states that you have developed only the backend part of the Online Quiz System:
+Online Quiz System:
 
 ```markdown
 # Online Quiz System (Backend)
@@ -100,4 +100,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    git push origin main
    ```
 
-Let me know if you need any more adjustments!
